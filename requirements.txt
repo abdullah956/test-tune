@@ -1,0 +1,4 @@
+ipykernel
+troch
+numpy
+tiktoken
